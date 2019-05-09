@@ -1,0 +1,17 @@
+C:\Windows\system32>C:\Users\Administrator\Desktop\FSE\GITHUB\FinalDotNetCertification\server\ProjectManager\packages\NBench.Runner.1.2.2\tools\net452\NBench.Runner.exe C:\Users\Administrator\Desktop\FSE\GITHUB\FinalDotNetCertification\server\ProjectManager\PerformanceTests\bin\Debug\PerformanceTests.dll
+Executing Benchmarks in C:\Users\Administrator\Desktop\FSE\GITHUB\FinalDotNetCertification\server\ProjectManager\PerformanceTests\bin\Debug\PerformanceTests.dll
+------------ STARTING PerformanceTests.TaskPerfTests+PerformanceTests ----------
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9890706
+Elapsed Time - ms: 989.00 ,ms: /s 999.93 , ns / ms: 1,000,071.39
+--------------- END RUN ---------------
+
+--------------- RESULTS: PerformanceTests.TaskPerfTests+PerformanceTests ---------------
+--------------- DATA ---------------
+Elapsed Time: Max: 989.00 ms, Average: 989.00 ms, Min: 989.00 ms, StdDev: 0.00 ms
+Elapsed Time: Max / s: 999.93 ms, Average / s: 999.93 ms, Min / s: 999.93 ms, StdDev / s: 0.00 ms
+
+--------------- ASSERTIONS ---------------
+[PASS] Expected Elapsed Time to must be less than or equal to 5,000.00 ms; actual value was 989.00 ms.
+
+------------ FINISHED PerformanceTests.TaskPerfTests+PerformanceTests ----------
